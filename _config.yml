@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sofia Prado-Irwin"
+  name             : #"Sofia Prado-Irwin"
   avatar           : #"profile.png"
   bio              : "PhD Candidate"
   location         : 
