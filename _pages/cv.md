@@ -29,3 +29,5 @@ Talks
 Prado-Irwin S, Andrew Zink, Vance Vredenburg. 2016. Skin microbiome composition across a salamander hybrid zone. Evolution, Austin, TX.
 
 Prado-Irwin S. 2016. Characterizing the skin-associated microbiome of the yellow-eyed ensatina. American Society of Naturalists, Asilomar, CA.
+
+Full CV [here](docs/cv.pdf)
