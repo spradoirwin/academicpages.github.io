@@ -7,10 +7,10 @@ main:
     url: /cv/    
 
   - title: "News"
-    url: /news/    
+    url: /posts/    
     
   - title: "Photos"
-    url: /posts/
+    url: /photos/
         
   - title: "Contact"
     url: /contact/
