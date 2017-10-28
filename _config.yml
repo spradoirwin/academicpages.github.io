@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sofia Prado-Irwin"
 title_separator          : "-"
-name                     : &name "Sofia Prado-Irwin"
+name                     : #&name "Sofia Prado-Irwin"
 description              : &description "PhD Candidate in Organismic and Evolutionary Biology at Harvard University"
 url                      : https://spradoirwin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
