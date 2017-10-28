@@ -10,7 +10,7 @@ main:
     url: /news/    
     
   - title: "Photos"
-    url: /phots/
+    url: /posts/
         
   - title: "Contact"
     url: /contact/
