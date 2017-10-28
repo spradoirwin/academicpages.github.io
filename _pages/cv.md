@@ -30,4 +30,4 @@ Prado-Irwin S, Andrew Zink, Vance Vredenburg. 2016. Skin microbiome composition 
 
 Prado-Irwin S. 2016. Characterizing the skin-associated microbiome of the yellow-eyed ensatina. American Society of Naturalists, Asilomar, CA.
 
-Full CV [here](files/cv_2017_long.pdf)
+Full CV [here]((http://spradoirwin.github.io/files/cv_2017_long.pdf)
