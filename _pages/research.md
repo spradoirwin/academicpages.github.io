@@ -22,13 +22,3 @@ Adaptation to urban environments in <i>Anolis cristatellus</i>
 ======
 I spent the summer of 2012 in the Revell lab at UMass Boston through an NSF REU program. I assisted PhD student Kristin Winchell in examining population genetic structure and morphology of populations of Anolis cristatellus in forested areas and in urban habitats. The lizards are highly abundant in both habitats, but the urban areas present a significantly different environment in terms of thermal qualities, perch availability, and predator dynamics. We found that Anolis lizards in urban areas are adapting to these different pressures, and are doing so quite rapidly. The research was recently published in Evolution - check it out here.
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
