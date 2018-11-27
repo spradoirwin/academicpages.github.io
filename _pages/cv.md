@@ -34,8 +34,12 @@ Winchell KM, RG Reynolds, **SR Prado-Irwin,** AR Puente-Rolón, LJ Revell. 2016.
   
 Talks
 ======
-Prado-Irwin S, Andrew Zink, Vance Vredenburg. 2016. Skin microbiome composition across a salamander hybrid zone. Evolution, Austin, TX.
+**Prado-Irwin SR.** 2018. Evolution and ecology of a widespread Central American lizard. Mini-symposium: Research and Teaching at a Liberal Arts College. Williams College, Williamstown, MA.
 
-Prado-Irwin S. 2016. Characterizing the skin-associated microbiome of the yellow-eyed ensatina. American Society of Naturalists, Asilomar, CA.
+**Prado-Irwin SR**. 2017. Dewlaps. OEB Student Seminar. Harvard University, Cambridge, MA.
 
-Full CV [here](http://spradoirwin.github.io/files/cv_2017_long.pdf)
+**Prado-Irwin SR,** A Zink, V Vredenburg. 2016. Characterizing the skin-associated microbiome of the yellow-eyed ensatina. American Society of Naturalists Conference, Asilomar, CA.
+    
+**Prado-Irwin SR.** 2013. Honey Bee Gut Immune Responses to Pathogenic Microbes. Barnard College. Biology Department Senior Thesis Presentation Series, New York, NY.
+
+Full CV [here](http://spradoirwin.github.io/files/cv_2018.pdf)
