@@ -43,3 +43,4 @@ Talks
 **Prado-Irwin SR.** 2013. Honey Bee Gut Immune Responses to Pathogenic Microbes. Barnard College. Biology Department Senior Thesis Presentation Series, New York, NY.
 
 Full CV [here](http://spradoirwin.github.io/files/cv_2018.pdf)
+======
