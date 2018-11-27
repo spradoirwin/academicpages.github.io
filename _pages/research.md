@@ -8,7 +8,7 @@ author_profile: true
 Ecology and evolution of mainland and island <i>Anolis</i> lizards
 ======
 A wealth of research in the field of island biogeography has shown that organisms and populations living on islands are often quite different from those living on continents in many ways, both ecologically and evolutionarily. I am currently interested in understanding why that's the case, using Central American <i>Anolis</i> lizards as a case study. 
-(/images/lemur_female.JPG)
+![test](/images/lemur_female.JPG)
 
 Host-microbiome interaction in <i>Ensatina salamanders</i>
 ======
