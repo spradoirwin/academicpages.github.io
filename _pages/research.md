@@ -8,7 +8,8 @@ author_profile: true
 Ecology and evolution of mainland and island <i>Anolis</i> lizards
 ======
 I am currently interested in understanding why and how evolutionary and ecological process differ between island and mainland environments. I'm addressing these questions usinga group Central American <i>Anolis</i> lizards as a case study.
-![test](/images/lemur_female.JPG)<!-- .element height="50%" width="50%" -->
+#![test](/images/lemur_female.JPG)<!-- .element height="50%" width="50%" -->
+<img src="/images/lemur_female.JPG" width="50%" height="50%">
 
 Host-microbiome interaction in <i>Ensatina</i> salamanders
 ======
