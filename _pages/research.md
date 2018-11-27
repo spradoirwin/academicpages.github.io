@@ -10,7 +10,7 @@ Ecology and evolution of mainland and island <i>Anolis</i> lizards
 I am currently interested in understanding why and how evolutionary and ecological process differ between island and mainland environments. I'm addressing these questions usinga group Central American <i>Anolis</i> lizards as a case study. 
 
 <p align="center">
-<img src="/images/lemur_female.JPG" width="25%" height="25%"> 
+<img src="/images/lemur_female.JPG" width="50%" height="50%"> 
 </p>
 
 
