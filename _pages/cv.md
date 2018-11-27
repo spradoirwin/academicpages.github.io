@@ -21,15 +21,16 @@ Publications
 ======
 BA White, **SR Prado-Irwin,** and LN Gray. *In review.* Female dewlap variation in the *Anolis lemurinus* group. Breviora.
 
-**Prado-Irwin SR**, M van de Schoot, AJ Geneva. 2018. Evolutionary analysis of *Adenovirus* strains infecting a single anole species. PeerJ DOI: 10.7717/peerj.5521.
 
-<a href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.00442/full">
-AK Bird, **SR Prado-Irwin,** VT Vredenburg, AG Zink. 2018. Skin microbiomes of California terrestrial salamanders are influenced by habitat more than host phylogeny. Frontiers in Microbiology DOI: 10.3389/fmicb.2018.00442.</a>
+**Prado-Irwin SR**, M van de Schoot, AJ Geneva. 2018. Evolutionary analysis of *Adenovirus* strains infecting a single anole species. PeerJ DOI: 10.7717/peerj.5521. <a href="https://peerj.com/articles/5521/">link</a>
 
-<a href="https://link.springer.com/article/10.1007/s00248-017-0986-y?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst">Prado-Irwin SR, AK Bird, AG Zink, VT Vredenburg. 2017. Intraspecific Variation in the Skin-Associated Microbiome of a Terrestrial Salamander. Microb Ecol. doi:10.1007/s00248-017-0986-y</a>
+
+AK Bird, **SR Prado-Irwin,** VT Vredenburg, AG Zink. 2018. Skin microbiomes of California terrestrial salamanders are influenced by habitat more than host phylogeny. Frontiers in Microbiology DOI: 10.3389/fmicb.2018.00442. <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.00442/full">link</a>
+
+**Prado-Irwin SR,** AK Bird, AG Zink, VT Vredenburg. 2017. Intraspecific Variation in the Skin-Associated Microbiome of a Terrestrial Salamander. Microb Ecol. doi:10.1007/s00248-017-0986-y. <a href="https://link.springer.com/article/10.1007/s00248-017-0986-y?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst">link</a>
 (Chosen for journal's cover photo!)
 
-<a href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12925/full">Winchell KM, RG Reynolds, SR Prado-Irwin, AR Puente-Rolón, LJ Revell. 2016. Phenotypic shifts in urban areas in the tropical lizard Anolis cristatellus. Evolution  doi: 10.1111/evo.12925.</a>
+Winchell KM, RG Reynolds, **SR Prado-Irwin,** AR Puente-Rolón, LJ Revell. 2016. Phenotypic shifts in urban areas in the tropical lizard Anolis cristatellus. Evolution  doi: 10.1111/evo.12925. <a href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12925/full">link</a>
   
 Talks
 ======
