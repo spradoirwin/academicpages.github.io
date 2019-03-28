@@ -3,14 +3,17 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Publications"
+    url: /publications/    
+    
   - title: "CV"
     url: /cv/    
-
-  #- title: "News"
-   # url: /posts/    
     
-  #- title: "Photos"
-   # url: /photos/
+  - title: "Photos"
+    url: /photos/    
+
+  - title: "News"
+    url: /posts/    
         
   #- title: "Contact"
    # url: /contact/
