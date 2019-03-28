@@ -13,7 +13,7 @@ main:
     url: /photos/    
 
   - title: "News"
-    url: /news/    
+    url: /year-archive/    
         
   #- title: "Contact"
    # url: /contact/
